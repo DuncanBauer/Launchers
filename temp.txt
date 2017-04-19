@@ -1,0 +1,11 @@
+ECHO Massive Chalice - massive
+ECHO Diablo 3 - d3
+ECHO Civilization 5 - civ5
+ECHO Civilization 6 - civ6
+ECHO For The King - ftk
+
+set /p game=Enter shortcut name: 
+
+REM IF game == "massive" 
+
+REM START "PATH TO EXECUTABLE HERE" EX: S:\Steam\steamapps\common\"Massive Chalice"\MC.exe

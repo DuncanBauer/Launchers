@@ -1,0 +1,8 @@
+-------------------------------------------
+Launching the Launcher...
+Found Working Directory: P:\Git Repos\Launchers
+Created/Opened HKCU\Software\Firaxis\Civilization5 Registry Entry.
+Succesfully Saved Working Directory.
+OS: Microsoft Windows 8  (build 9200), 64-bit
+DirectX 11 is installed.
+Recommending DirectX 11.
