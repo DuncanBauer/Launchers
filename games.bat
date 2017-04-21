@@ -9,6 +9,7 @@ ECHO Civilization 5  - civ5
 ECHO Civilization 6  - civ6
 ECHO For The King    - ftk
 ECHO Slime Ranchers  - slime
+ECHO Everything      - every
 ECHO CLOSE LAUNCHER  - end
 ECHO.
 
@@ -32,6 +33,9 @@ ECHO.
   GOTO launch )
   IF "%game%" == "slime" (
   call slime.bat
+  GOTO launch )
+  IF "%game%" == "every" (
+  call every.bat
   GOTO launch )
   IF "%game%" == "end" (
   GOTO close
